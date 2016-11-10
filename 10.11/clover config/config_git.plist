@@ -403,7 +403,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C02QF33YFG7GGHFY3</string>
+		<string>***</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
@@ -416,11 +416,11 @@
 		<key>BiosVersion</key>
 		<string>MB91.88Z.0154.B04.1604191425</string>
 		<key>Board-ID</key>
-		<string>Mac-9AE82516C7C6B903</string>
+		<string>Mac-***</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02QF42YGG7L</string>
+		<string>****</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>ChassisAssetTag</key>
@@ -438,9 +438,9 @@
 		<key>ProductName</key>
 		<string>MacBook9,1</string>
 		<key>SerialNumber</key>
-		<string>C02TGD0QHDNK</string>
+		<string>***</string>
 		<key>SmUUID</key>
-		<string>0BF143C8-CFC3-4815-BF07-EF1992EC2192</string>
+		<string>****</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>
