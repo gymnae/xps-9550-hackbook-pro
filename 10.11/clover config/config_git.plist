@@ -10,14 +10,10 @@
 			<false/>
 			<key>DropOEM_DSM</key>
 			<false/>
+			<key>Name</key>
+			<string>DSDT.aml</string>
 			<key>Fixes</key>
 			<dict>
-				<key>FixAirport_4000</key>
-				<true/>
-				<key>FixHDA_8000</key>
-				<true/>
-				<key>FixLAN_2000</key>
-				<true/>
 				<key>FixShutdown_0004</key>
 				<true/>
 				<key>NewWay_80000000</key>
@@ -368,6 +364,20 @@
 				ZscGVVPrKw==
 				</data>
 			</dict>
+			<dict>
+					<key>Comment</key>
+					<string>change GFX0 to IGPU</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					R0ZYMA==
+					</data>
+					<key>Replace</key>
+					<data>
+					SUdQVQ==
+					</data>
+				</dict>
 			<dict>                 
 				<key>Comment</key>
 				<string>10.11-SKL-1912000-4_displays</string>
