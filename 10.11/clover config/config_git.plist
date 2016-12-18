@@ -27,13 +27,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					TUVJXw==
-					</data>
+					<data>TUVJXw==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -41,13 +37,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -55,13 +47,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMg==
-					</data>
+					<data>RUhDMg==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMg==
-					</data>
+					<data>RUgwMg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -69,13 +57,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMQ==
-					</data>
+					<data>RUhDMQ==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMQ==
-					</data>
+					<data>RUgwMQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -83,13 +67,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -97,13 +77,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -127,7 +103,6 @@
 		</dict>
 		<key>SortedOrder</key>
 		<array>
-			<string>SSDT.aml</string>
 			<string>SSDT-0.aml</string>
 			<string>SSDT-1.aml</string>
 			<string>SSDT-2.aml</string>
@@ -142,8 +117,8 @@
 			<string>SSDT-18.aml</string>
 			<string>SSDT-ALC298.aml</string>
 			<string>SSDT-UIC-ALL.aml</string>
-			<string>SSDT-ALC298.aml</string>
 			<string>ssdt-rmne.aml</string>
+			<string>SSDT-PNLF.aml</string>
 		</array>
 	</dict>
 	<key>Boot</key>
@@ -166,7 +141,7 @@
 		<key>UseARTFrequency</key>
 		<false/>
 		<key>HWPEnable</key>
-        <true/>
+		<true/>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -278,43 +253,31 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				SIX/dEdIiwc=
-				</data>
+				<data>SIX/dEdIiwc=</data>
 				<key>Name</key>
 				<string>IOBluetoothFamily</string>
 				<key>Replace</key>
-				<data>
-				Qb4PAAAA60Q=
-				</data>
+				<data>Qb4PAAAA60Q=</data>
 			</dict>
 			<dict>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				TWFjLUM2RUZBNjM5NjJGQzZFQTA=
-				</data>
+				<data>TWFjLUM2RUZBNjM5NjJGQzZFQTA=</data>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				TWFjLTI3QURCQjdCNENFRThFNjE=
-				</data>
+				<data>TWFjLTI3QURCQjdCNENFRThFNjE=</data>
 			</dict>
 			<dict>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				QYP8/3Qs
-				</data>
+				<data>QYP8/3Qs</data>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				ZscGVVPrKw==
-				</data>
+				<data>ZscGVVPrKw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -322,15 +285,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AEFQUExFIFNTRAA=
-				</data>
+				<data>AEFQUExFIFNTRAA=</data>
 				<key>Name</key>
 				<string>IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAAAAA=
-				</data>
+				<data>AAAAAAAAAAAAAAA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -338,15 +297,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
+				<data>AQAAdRc=</data>
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6xc=
-				</data>
+				<data>AQAA6xc=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -354,43 +309,31 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				QYP8/3QsSA==
-				</data>
+				<data>QYP8/3QsSA==</data>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				ZscGVVPrKw==
-				</data>
+				<data>ZscGVVPrKw==</data>
 			</dict>
 			<dict>
-					<key>Comment</key>
-					<string>change GFX0 to IGPU</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
-					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
-				</dict>
-			<dict>                 
+				<key>Comment</key>
+				<string>change GFX0 to IGPU</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>R0ZYMA==</data>
+				<key>Replace</key>
+				<data>SUdQVQ==</data>
+			</dict>
+			<dict>
 				<key>Comment</key>
 				<string>10.11-SKL-1912000-4_displays</string>
 				<key>Find</key>
-				<data>
-				AQMDAw==
-				</data>
+				<data>AQMDAw==</data>
 				<key>Name</key>
 				<string>AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>
-				AQMEAw==
-				</data>
+				<data>AQMEAw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -413,7 +356,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>***</string>
+		<string>PRIVATE</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
@@ -426,11 +369,11 @@
 		<key>BiosVersion</key>
 		<string>MB91.88Z.0154.B04.1604191425</string>
 		<key>Board-ID</key>
-		<string>Mac-***</string>
+		<string>Mac-PRIVATE</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>****</string>
+		<string>PRIVATE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>ChassisAssetTag</key>
@@ -448,9 +391,9 @@
 		<key>ProductName</key>
 		<string>MacBook9,1</string>
 		<key>SerialNumber</key>
-		<string>***</string>
+		<string>PRIVATE</string>
 		<key>SmUUID</key>
-		<string>****</string>
+		<string>PRIVATE</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>
